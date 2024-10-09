@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tarea2/static/css/main.7e381d60.css",
+    "main.js": "/tarea2/static/js/main.c3db950d.js",
+    "static/js/453.5ea3fa85.chunk.js": "/tarea2/static/js/453.5ea3fa85.chunk.js",
+    "static/media/accidente.png": "/tarea2/static/media/accidente.a1b4cfbfb4283eb309e5.png",
+    "static/media/departure.png": "/tarea2/static/media/departure.fc7037e5443d150ed99b.png",
+    "index.html": "/tarea2/index.html",
+    "main.7e381d60.css.map": "/tarea2/static/css/main.7e381d60.css.map",
+    "main.c3db950d.js.map": "/tarea2/static/js/main.c3db950d.js.map",
+    "453.5ea3fa85.chunk.js.map": "/tarea2/static/js/453.5ea3fa85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e381d60.css",
+    "static/js/main.c3db950d.js"
+  ]
+}
